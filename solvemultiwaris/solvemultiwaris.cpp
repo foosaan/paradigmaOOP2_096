@@ -21,3 +21,7 @@ public:
 		cout << "pekerja dibuaat\n" << endl;
 	}
 };
+
+class pelajar : virtual public orang {
+
+};
