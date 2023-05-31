@@ -1,4 +1,5 @@
 #include <iostream>
 using namespace std;
 
-class orang
+class orang {
+public:
